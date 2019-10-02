@@ -1,3 +1,3 @@
-Algoritmos em c/c++
+:man_technologist:	Algoritmos em c/c++
 
-Resoluções de problemas de competições de programação.
+:runner: Resoluções de problemas de competições de programação.
